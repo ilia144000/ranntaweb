@@ -1,19 +1,16 @@
-// src/components/Navbar.jsx
-import { Link } from 'react-router-dom';
+// ✅ src/components/Navbar.jsx
 import ThemeToggle from './ThemeToggle';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
-    <nav className="flex justify-between items-center px-6 py-4 bg-white dark:bg-gray-900 shadow-md sticky top-0 z-50">
-      <div className="flex gap-6 text-sm md:text-base font-medium">
+    <nav className="flex justify-between items-center p-4 border-b dark:border-gray-700">
+      <div className="flex space-x-4">
         <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
         <Link to="/whitepaper">Whitepaper</Link>
         <Link to="/contact">Contact</Link>
       </div>
-      <div className="flex gap-4 items-center">
-        <ThemeToggle />
-      </div>
+      <ThemeToggle />
     </nav>
   );
 };
