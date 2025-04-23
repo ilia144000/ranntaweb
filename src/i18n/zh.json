@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "home": "首页",
+    "whitepaper": "白皮书",
+    "contact": "联系我们"
+  },
+  "home": {
+    "welcome": "欢迎来到 RANNTA",
+    "description": "洛杉矶火灾的纪念碑——重建和重返美国荣耀的象征。"
+  },
+  "whitepaper": {
+    "comingSoon": "白皮书即将推出..."
+  },
+  "contact": {
+    "title": "联系我们",
+    "name": "姓名",
+    "email": "电子邮件",
+    "message": "信息",
+    "submit": "提交"
+  }
+}

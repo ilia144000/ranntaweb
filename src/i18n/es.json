@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "whitepaper": "Libro Blanco",
+    "contact": "Contáctenos"
+  },
+  "home": {
+    "welcome": "Bienvenido a RANNTA",
+    "description": "Un memorial por el trágico incendio en Los Ángeles: un símbolo de reconstrucción y regreso a la gloria de los Estados Unidos."
+  },
+  "whitepaper": {
+    "comingSoon": "El libro blanco estará disponible pronto..."
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "submit": "Enviar"
+  }
+}

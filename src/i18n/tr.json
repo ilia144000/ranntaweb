@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "home": "Ana Sayfa",
+    "whitepaper": "Beyaz Kitap",
+    "contact": "İletişim"
+  },
+  "home": {
+    "welcome": "RANNTA'ya Hoşgeldiniz",
+    "description": "Los Angeles'taki trajik yangının anısına — Amerika Birleşik Devletleri'nin ihtişamına geri dönüş ve yeniden inşa sembolü."
+  },
+  "whitepaper": {
+    "comingSoon": "Beyaz kitap yakında..."
+  },
+  "contact": {
+    "title": "Bizimle İletişime Geçin",
+    "name": "Ad",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "submit": "Gönder"
+  }
+}
